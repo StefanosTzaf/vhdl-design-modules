@@ -7,8 +7,12 @@ the National and Kapodistrian University of Athens. The projects focus on design
 ---
 
 ## Reports and Documentation
-In each assignment there is a report in PDF format that explains the design process, implementation details, and verification results and timings. Also there are the assignments' instructions in PDF format.
+Detailed PDF reports explaining the design process, architecture, timing analysis, and verification results are available below:
 
+- 📑 **[Assignment 1 - ALU Report & Waveforms](./01_ALU/Report_1_eng.pdf)**
+- 📑 **[Assignment 2 - Sequence Detector & Bubble Sort Report](./02_FSM/Report_2_eng.pdf)**
+
+> *Note: Original laboratory instruction PDFs are also included in the respective project directories.*
 ## 📂 Project Contents
 
 ### 1. 32-bit Arithmetic Logic Unit (ALU)
