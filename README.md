@@ -12,7 +12,7 @@ Detailed PDF reports explaining the design process, architecture, timing analysi
 - 📑 **[Assignment 1 - ALU Report & Waveforms](./01_ALU/Report_1_eng.pdf)**
 - 📑 **[Assignment 2 - Sequence Detector & Bubble Sort Report](./02_FSM/Report_2_eng.pdf)**
 
-> *Note: Original laboratory instruction PDFs are also included in the base directory.*
+> *Note: Original laboratory instruction PDF is also included in the base directory.*
 ## 📂 Project Contents
 
 ### 1. 32-bit Arithmetic Logic Unit (ALU)
